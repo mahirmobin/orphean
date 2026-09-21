@@ -1,0 +1,337 @@
+﻿> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:kspDebugKotlin UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:mergeDebugStartupProfile UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:mergeDebugNativeLibs NO-SOURCE
+> Task :app:stripDebugDebugSymbols NO-SOURCE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+
+> Task :app:compileDebugKotlin
+.\gradlew : e: file:/
+//E:/Music%20Player%2
+0Orpheon/app/src/main
+/java/com/orphean/pre
+sentation/home/HomeSc
+reen.kt:75:25 
+Unresolved 
+reference: Modifier
+At line:1 char:1
++ .\gradlew 
+assembleDebug 
+--console=plain 2>&1 
+| Out-File -Encoding 
+utf ...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~
+    + CategoryInfo   
+           : 
+NotSpecified:     
+(e: file:///E:/M...r 
+   ence: 
+Modifier:Strin    g) 
+[], RemoteExcepti    
+on
+    + 
+FullyQualifiedErro   
+ rId : 
+NativeCommandE    
+rror
+ 
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:81:2
+8 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:86:3
+2 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:88:4
+1 Unresolved 
+reference: Alignment
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:94:3
+6 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:97:6
+8 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:101:
+40 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:110:
+32 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:126:
+32 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:141:
+36 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:141:
+79 Unresolved 
+reference: Alignment
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:146:
+36 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:152:
+112 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:155:
+70 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:166:
+110 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:169:
+70 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:180:
+111 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:185:
+62 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:191:
+50 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:201:
+39 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:201:
+50 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:208:
+31 Unresolved 
+reference: Alignment
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:210:
+52 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:211:
+27 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:212:
+103 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:214:
+142 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:221:
+36 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:221:
+47 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:228:
+29 Unresolved 
+reference: Alignment
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:230:
+52 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:232:
+27 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:234:
+27 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:240:
+28 Unresolved 
+reference: Modifier
+e: file:///E:/Music%2
+0Player%20Orpheon/app
+/src/main/java/com/or
+phean/presentation/ho
+me/HomeScreen.kt:248:
+32 Unresolved 
+reference: Modifier
+
+> Task :app:compileDebugKotlin FAILED
+
+FAILURE: Build 
+failed with an 
+exception.
+
+* What went wrong:
+Execution failed for 
+task ':app:compileDeb
+ugKotlin'.
+> A failure occurred 
+while executing org.j
+etbrains.kotlin.compi
+lerRunner.GradleCompi
+lerRunnerWithWorkers$
+GradleKotlinCompilerW
+orkAction
+   > Compilation 
+error. See log for 
+more details
+
+* Try:
+> Run with 
+--stacktrace option 
+to get the stack 
+trace.
+> Run with --info or 
+--debug option to 
+get more log output.
+> Run with --scan to 
+get full insights.
+> Get more help at ht
+tps://help.gradle.org
+.
+
+BUILD FAILED in 6s
+29 actionable tasks: 2 executed, 27 up-to-date

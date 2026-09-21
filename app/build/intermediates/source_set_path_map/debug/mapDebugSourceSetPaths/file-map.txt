@@ -1,0 +1,67 @@
+com.orphean.app-lifecycle-livedata-core-ktx-2.7.0-0 C:\Users\mahir\.gradle\caches\transforms-4\04e42bcdec6bd8dad32275c2797eb7e7\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.orphean.app-activity-1.8.2-1 C:\Users\mahir\.gradle\caches\transforms-4\0a03977b02c3ebd2ac7b33cd3d662829\transformed\activity-1.8.2\res
+com.orphean.app-lifecycle-viewmodel-2.7.0-2 C:\Users\mahir\.gradle\caches\transforms-4\122185d342d97560e6470cfa0bfd4c87\transformed\lifecycle-viewmodel-2.7.0\res
+com.orphean.app-savedstate-1.2.1-3 C:\Users\mahir\.gradle\caches\transforms-4\1256a5b44c0c3d9b24da42f9a7300562\transformed\savedstate-1.2.1\res
+com.orphean.app-ui-tooling-release-4 C:\Users\mahir\.gradle\caches\transforms-4\1668f0443a84387e88c3b48456d588fc\transformed\ui-tooling-release\res
+com.orphean.app-lifecycle-runtime-2.7.0-5 C:\Users\mahir\.gradle\caches\transforms-4\17f798e44228359aa7db4571e8b8c81b\transformed\lifecycle-runtime-2.7.0\res
+com.orphean.app-navigation-runtime-2.5.1-6 C:\Users\mahir\.gradle\caches\transforms-4\211d341fd00b3482cd5ed6ede4f053b2\transformed\navigation-runtime-2.5.1\res
+com.orphean.app-hilt-navigation-1.2.0-7 C:\Users\mahir\.gradle\caches\transforms-4\22b21e2e10b4ef20e919796e580e770a\transformed\hilt-navigation-1.2.0\res
+com.orphean.app-lifecycle-viewmodel-ktx-2.7.0-8 C:\Users\mahir\.gradle\caches\transforms-4\27121ef7b90ea755c2b9f50d7d7962a9\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.orphean.app-profileinstaller-1.3.1-9 C:\Users\mahir\.gradle\caches\transforms-4\2ca6c205facbc1ce1875d11290f12592\transformed\profileinstaller-1.3.1\res
+com.orphean.app-navigation-common-2.5.1-10 C:\Users\mahir\.gradle\caches\transforms-4\2d6da70bd202550bd82b9811e1715adf\transformed\navigation-common-2.5.1\res
+com.orphean.app-room-runtime-2.6.1-11 C:\Users\mahir\.gradle\caches\transforms-4\332c01080e8cd7546d6256a3ea8231e6\transformed\room-runtime-2.6.1\res
+com.orphean.app-material-icons-extended-release-12 C:\Users\mahir\.gradle\caches\transforms-4\36d0675ba2add9f2ad4a1daae32e7d77\transformed\material-icons-extended-release\res
+com.orphean.app-navigation-common-ktx-2.5.1-13 C:\Users\mahir\.gradle\caches\transforms-4\39c70cf31921fe6bacb1abeff7bc4af4\transformed\navigation-common-ktx-2.5.1\res
+com.orphean.app-lifecycle-process-2.7.0-14 C:\Users\mahir\.gradle\caches\transforms-4\3a02de22180338e81bd2480fd21eaba0\transformed\lifecycle-process-2.7.0\res
+com.orphean.app-room-ktx-2.6.1-15 C:\Users\mahir\.gradle\caches\transforms-4\3a18f61b950b0095ea385417882fd1e7\transformed\room-ktx-2.6.1\res
+com.orphean.app-material3-release-16 C:\Users\mahir\.gradle\caches\transforms-4\3c5fe11fcb04d932203655ff69bb1790\transformed\material3-release\res
+com.orphean.app-activity-ktx-1.8.2-17 C:\Users\mahir\.gradle\caches\transforms-4\40f3516245a65975c52ec9d1104058ee\transformed\activity-ktx-1.8.2\res
+com.orphean.app-lifecycle-runtime-ktx-2.7.0-18 C:\Users\mahir\.gradle\caches\transforms-4\40fb927d5df8af4dfd38f23ff5e8a624\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.orphean.app-sqlite-2.4.0-19 C:\Users\mahir\.gradle\caches\transforms-4\446c68b45c027c68a16832ae284cc1b4\transformed\sqlite-2.4.0\res
+com.orphean.app-appcompat-resources-1.6.1-20 C:\Users\mahir\.gradle\caches\transforms-4\44f3932972486015e1a0ccf20b5f0f9d\transformed\appcompat-resources-1.6.1\res
+com.orphean.app-material-icons-core-release-21 C:\Users\mahir\.gradle\caches\transforms-4\4e2ee4553511d546bac761be011313a4\transformed\material-icons-core-release\res
+com.orphean.app-ui-tooling-preview-release-22 C:\Users\mahir\.gradle\caches\transforms-4\4faec5023a6e8724fb9e42f9a18c303b\transformed\ui-tooling-preview-release\res
+com.orphean.app-material-ripple-release-23 C:\Users\mahir\.gradle\caches\transforms-4\4fd70e7ac1b3665548616c2b52fa7650\transformed\material-ripple-release\res
+com.orphean.app-ui-graphics-release-24 C:\Users\mahir\.gradle\caches\transforms-4\54f0d51b5a544b262786ce1756fdb3a1\transformed\ui-graphics-release\res
+com.orphean.app-ui-text-release-25 C:\Users\mahir\.gradle\caches\transforms-4\553ed222dda0a3083b86251fca2faa18\transformed\ui-text-release\res
+com.orphean.app-navigation-runtime-ktx-2.5.1-26 C:\Users\mahir\.gradle\caches\transforms-4\70b117b854852546b10c8eb13929a60b\transformed\navigation-runtime-ktx-2.5.1\res
+com.orphean.app-ui-test-manifest-1.6.1-27 C:\Users\mahir\.gradle\caches\transforms-4\78379c139a0d10b0e22f0137b3e91364\transformed\ui-test-manifest-1.6.1\res
+com.orphean.app-foundation-layout-release-28 C:\Users\mahir\.gradle\caches\transforms-4\7c719596e8fe05675d19ce5a81eac08b\transformed\foundation-layout-release\res
+com.orphean.app-material-release-29 C:\Users\mahir\.gradle\caches\transforms-4\87f8981f82f462a0cfe07b433e510208\transformed\material-release\res
+com.orphean.app-media-1.6.0-30 C:\Users\mahir\.gradle\caches\transforms-4\88c78a45ab9df09ba7d1fd4bf8f5160f\transformed\media-1.6.0\res
+com.orphean.app-media3-session-1.2.1-31 C:\Users\mahir\.gradle\caches\transforms-4\89cc8780a82df97b12a9ab1f01dd0024\transformed\media3-session-1.2.1\res
+com.orphean.app-runtime-saveable-release-32 C:\Users\mahir\.gradle\caches\transforms-4\8c6cf59e1506b7a4524fb1919b924833\transformed\runtime-saveable-release\res
+com.orphean.app-navigation-compose-2.5.1-33 C:\Users\mahir\.gradle\caches\transforms-4\8c90e9421462e91ba9167a8ed7c29dbc\transformed\navigation-compose-2.5.1\res
+com.orphean.app-lifecycle-viewmodel-savedstate-2.7.0-34 C:\Users\mahir\.gradle\caches\transforms-4\8ff5ff7507ac8d14c05eb4752ead9657\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.orphean.app-ui-tooling-data-release-35 C:\Users\mahir\.gradle\caches\transforms-4\901640cb04fcec494281e10db34e6f79\transformed\ui-tooling-data-release\res
+com.orphean.app-foundation-release-36 C:\Users\mahir\.gradle\caches\transforms-4\90669d06bffd6a0637d83ca02bfa76c3\transformed\foundation-release\res
+com.orphean.app-startup-runtime-1.1.1-37 C:\Users\mahir\.gradle\caches\transforms-4\9585bc2ab8cf8dd9fd04fdb110d496cc\transformed\startup-runtime-1.1.1\res
+com.orphean.app-sqlite-framework-2.4.0-38 C:\Users\mahir\.gradle\caches\transforms-4\996e52fb9a289cf36ba08edd3bb662b5\transformed\sqlite-framework-2.4.0\res
+com.orphean.app-emoji2-1.3.0-39 C:\Users\mahir\.gradle\caches\transforms-4\9a80be4a54338738861d32317ffc44ec\transformed\emoji2-1.3.0\res
+com.orphean.app-coil-base-2.6.0-40 C:\Users\mahir\.gradle\caches\transforms-4\9f155e2b15e3fe0d74e48aa8ab4050ad\transformed\coil-base-2.6.0\res
+com.orphean.app-ui-util-release-41 C:\Users\mahir\.gradle\caches\transforms-4\a1a4e719bde09de0efffdad69248a91e\transformed\ui-util-release\res
+com.orphean.app-media3-exoplayer-1.2.1-42 C:\Users\mahir\.gradle\caches\transforms-4\a3f14b470977e1ef1756147219f8e11a\transformed\media3-exoplayer-1.2.1\res
+com.orphean.app-core-ktx-1.12.0-43 C:\Users\mahir\.gradle\caches\transforms-4\aac16516ff7f80a69460b3b68ae90758\transformed\core-ktx-1.12.0\res
+com.orphean.app-core-1.12.0-44 C:\Users\mahir\.gradle\caches\transforms-4\b17fcd078e3875911d6717e090af7764\transformed\core-1.12.0\res
+com.orphean.app-core-runtime-2.2.0-45 C:\Users\mahir\.gradle\caches\transforms-4\b5c18c1bc9c98b23aa6844e4d41360d1\transformed\core-runtime-2.2.0\res
+com.orphean.app-runtime-release-46 C:\Users\mahir\.gradle\caches\transforms-4\c1a1d6687a032b8811f90a7348519835\transformed\runtime-release\res
+com.orphean.app-lifecycle-viewmodel-compose-2.7.0-47 C:\Users\mahir\.gradle\caches\transforms-4\c440c1799175503936a12925d030526c\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.orphean.app-annotation-experimental-1.4.0-48 C:\Users\mahir\.gradle\caches\transforms-4\ca7c0e32353c0b89fda53a8413f8ab8f\transformed\annotation-experimental-1.4.0\res
+com.orphean.app-lifecycle-livedata-2.7.0-49 C:\Users\mahir\.gradle\caches\transforms-4\ca8f5fc3e42de8a6cbb78bb779b6bd4f\transformed\lifecycle-livedata-2.7.0\res
+com.orphean.app-savedstate-ktx-1.2.1-50 C:\Users\mahir\.gradle\caches\transforms-4\ce5805543ceff382ba79beb032e4844c\transformed\savedstate-ktx-1.2.1\res
+com.orphean.app-activity-compose-1.8.2-51 C:\Users\mahir\.gradle\caches\transforms-4\cefa6222467f92690246f17d073d2519\transformed\activity-compose-1.8.2\res
+com.orphean.app-ui-geometry-release-52 C:\Users\mahir\.gradle\caches\transforms-4\d0685c0825b253ddb0345e508412647e\transformed\ui-geometry-release\res
+com.orphean.app-ui-release-53 C:\Users\mahir\.gradle\caches\transforms-4\d1f7109deae913226f4f5488066d26d0\transformed\ui-release\res
+com.orphean.app-lifecycle-livedata-core-2.7.0-54 C:\Users\mahir\.gradle\caches\transforms-4\d4a636d3b49d7bb31235c9e9f4b4c228\transformed\lifecycle-livedata-core-2.7.0\res
+com.orphean.app-hilt-navigation-compose-1.2.0-55 C:\Users\mahir\.gradle\caches\transforms-4\e1cbeacebd216c562e8001106b659b59\transformed\hilt-navigation-compose-1.2.0\res
+com.orphean.app-customview-poolingcontainer-1.0.0-56 C:\Users\mahir\.gradle\caches\transforms-4\e6a344804e6fc22b6cbfec2add8c33fc\transformed\customview-poolingcontainer-1.0.0\res
+com.orphean.app-animation-core-release-57 C:\Users\mahir\.gradle\caches\transforms-4\e6fddff871710a89c2970495f281e798\transformed\animation-core-release\res
+com.orphean.app-ui-unit-release-58 C:\Users\mahir\.gradle\caches\transforms-4\e7eb7094cebc17a3bab001756808982e\transformed\ui-unit-release\res
+com.orphean.app-fragment-1.5.1-59 C:\Users\mahir\.gradle\caches\transforms-4\f259f79b6ccd09090bb9727a92b3cfe8\transformed\fragment-1.5.1\res
+com.orphean.app-animation-release-60 C:\Users\mahir\.gradle\caches\transforms-4\f49af81fe07e4f4846c48c1e99cd6f43\transformed\animation-release\res
+com.orphean.app-resValues-61 E:\Music Player Orpheon\app\build\generated\res\resValues\debug
+com.orphean.app-packageDebugResources-62 E:\Music Player Orpheon\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.orphean.app-packageDebugResources-63 E:\Music Player Orpheon\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.orphean.app-debug-64 E:\Music Player Orpheon\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.orphean.app-debug-65 E:\Music Player Orpheon\app\src\debug\res
+com.orphean.app-main-66 E:\Music Player Orpheon\app\src\main\res

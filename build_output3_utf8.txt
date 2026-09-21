@@ -1,0 +1,249 @@
+﻿> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths
+> Task :app:generateDebugResources
+> Task :app:packageDebugResources
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:mergeDebugResources
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:mergeDebugStartupProfile UP-TO-DATE
+> Task :app:parseDebugLocalResources
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:mergeDebugNativeLibs NO-SOURCE
+> Task :app:stripDebugDebugSymbols NO-SOURCE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :app:processDebugResources
+
+> Task :app:kspDebugKotlin FAILED
+.\gradlew : e: [ksp] 
+E:/Music Player Orpheon/a
+pp/src/main/java/com/orph
+ean/presentation/home/Hom
+eScreen.kt: (44, 43): 
+Function declaration 
+must have a name
+At line:1 char:1
++ .\gradlew 
+assembleDebug 
+--console=plain > 
+build_output3.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+    + CategoryInfo       
+       : NotSpe    
+cified: (e: [ksp    ] 
+E:/Mus...ust h    ave a 
+name:Strin    g) [], 
+RemoteExc    eption
+    + FullyQualified    
+ErrorId : Native    
+CommandError
+ 
+e: Error occurred in 
+KSP, check log for detail
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:41:1 Parameter name 
+expected
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:41:4 Expecting comma or 
+')'
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:41:15 Expecting comma 
+or ')'
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:41:15 Expecting ')'
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:42:5 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:42:14 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:42:16 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:42:29 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:43:5 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:43:23 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:43:25 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:43:26 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:43:28 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:43:31 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:43:35 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:44:5 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:44:28 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:44:30 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:44:31 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:44:33 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:44:36 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:44:41 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:44:43 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:45:1 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:45:3 Expecting a top 
+level declaration
+e: file:///E:/Music%20Pla
+yer%20Orpheon/app/src/mai
+n/java/com/orphean/presen
+tation/home/HomeScreen.kt
+:290:1 Expecting a top 
+level declaration
+
+FAILURE: Build failed 
+with an exception.
+
+* What went wrong:
+Execution failed for 
+task 
+':app:kspDebugKotlin'.
+> A failure occurred 
+while executing org.jetbr
+ains.kotlin.compilerRunne
+r.GradleCompilerRunnerWit
+hWorkers$GradleKotlinComp
+ilerWorkAction
+   > Compilation error. 
+See log for more details
+
+* Try:
+> Run with --stacktrace 
+option to get the stack 
+trace.
+> Run with --info or 
+--debug option to get 
+more log output.
+> Run with --scan to get 
+full insights.
+> Get more help at 
+https://help.gradle.org.
+
+BUILD FAILED in 5s
+28 actionable tasks: 8 executed, 20 up-to-date

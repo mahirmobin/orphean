@@ -1,0 +1,6 @@
+
+gradle/wrapper/*.zip
+
+*.zip
+
+releases/

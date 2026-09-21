@@ -1,0 +1,97 @@
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:kspDebugKotlin UP-TO-DATE
+> Task :app:compileDebugKotlin UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:compileDebugJavaWithJavac FAILED
+.\gradle-8.7\bin\gradle.b
+at : 
+At line:1 char:1
++ .\gradle-8.7\bin\gradle
+.bat assembleDebug > 
+build_err6.txt 2>&1; 
+Get- ...
++ ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+    + CategoryInfo       
+       : NotSpecified:   
+  (:String) [], Remote   
+ Exception
+    + FullyQualifiedErro 
+   rId : NativeCommandE  
+  rror
+ 
+FAILURE: Build failed 
+with an exception.
+
+* What went wrong:
+Execution failed for 
+task ':app:compileDebugJa
+vaWithJavac'.
+> Could not resolve all 
+files for configuration 
+':app:androidJdkImage'.
+   > Failed to transform 
+core-for-system-modules.j
+ar to match attributes {a
+rtifactType=_internal_and
+roid_jdk_image, org.gradl
+e.libraryelements=jar, or
+g.gradle.usage=java-runti
+me}.
+      > Execution failed 
+for JdkImageTransform: E:
+\PPT\sdk\platforms\androi
+d-34\core-for-system-modu
+les.jar.
+         > Error while 
+executing process 
+C:\Program Files\Java\jdk
+-21\bin\jlink.exe with 
+arguments {--module-path 
+C:\Users\mahir\.gradle\ca
+ches\transforms-4\1525f97
+5de9bdb0b1a9dabf98e9608a8
+-d2bc5938-65d8-4af0-ad9d-
+bdb9a8545c82\transformed\
+output\temp\jmod 
+--add-modules java.base 
+--output C:\Users\mahir\.
+gradle\caches\transforms-
+4\1525f975de9bdb0b1a9dabf
+98e9608a8-d2bc5938-65d8-4
+af0-ad9d-bdb9a8545c82\tra
+nsformed\output\jdkImage 
+--disable-plugin 
+system-modules}
+
+* Try:
+> Run with --stacktrace 
+option to get the stack 
+trace.
+> Run with --info or 
+--debug option to get 
+more log output.
+> Run with --scan to get 
+full insights.
+> Get more help at 
+https://help.gradle.org.
+
+BUILD FAILED in 4s
+17 actionable tasks: 2 executed, 15 up-to-date

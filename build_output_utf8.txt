@@ -1,0 +1,263 @@
+﻿> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:kspDebugKotlin UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:mergeDebugStartupProfile UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:mergeDebugNativeLibs NO-SOURCE
+> Task :app:stripDebugDebugSymbols NO-SOURCE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+
+> Task :app:compileDebugKotlin
+.\gradlew : e: file:///E:/M
+usic%20Player%20Orpheon/app
+/src/main/java/com/orphean/
+presentation/home/HomeScree
+n.kt:194:14 Unresolved 
+reference: background
+At line:1 char:1
++ .\gradlew assembleDebug 
+--console=plain > 
+build_output.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: (e:   
+  file:///E:/M...nce: ba   
+ ckground:String) [], R    
+emoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:46:120 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:65:42 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:68:50 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:72:130 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:79:53 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:85:50 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:97:53 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:103:125 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:108:50 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:118:39 Unresolved 
+reference: sp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:125:57 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:128:39 Unresolved 
+reference: sp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:142:44 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:142:64 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:146:97 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:150:53 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:155:53 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:157:92 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:158:129 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:161:53 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:166:34 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:167:72 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:172:53 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:177:53 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:179:88 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:180:121 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:183:53 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:184:49 Unresolved 
+reference: dp
+e: file:///E:/Music%20Playe
+r%20Orpheon/app/src/main/ja
+va/com/orphean/presentation
+/player/NowPlayingScreen.kt
+:187:50 Unresolved 
+reference: dp
+
+> Task :app:compileDebugKotlin FAILED
+
+FAILURE: Build failed with 
+an exception.
+
+* What went wrong:
+Execution failed for task 
+':app:compileDebugKotlin'.
+> A failure occurred while 
+executing org.jetbrains.kot
+lin.compilerRunner.GradleCo
+mpilerRunnerWithWorkers$Gra
+dleKotlinCompilerWorkAction
+   > Compilation error. 
+See log for more details
+
+* Try:
+> Run with --stacktrace 
+option to get the stack 
+trace.
+> Run with --info or 
+--debug option to get more 
+log output.
+> Run with --scan to get 
+full insights.
+> Get more help at 
+https://help.gradle.org.
+
+BUILD FAILED in 7s
+29 actionable tasks: 2 executed, 27 up-to-date
